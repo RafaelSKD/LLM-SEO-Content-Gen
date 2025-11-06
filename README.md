@@ -49,7 +49,7 @@ This project was a **self-initiated learning experiment** to better understand A
 
 ## 🖼 Screenshots
 
-![Logo](assets/SS.png)
+![Screenshot](assets/SS.png)
 
 ---
 
