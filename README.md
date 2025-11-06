@@ -49,7 +49,9 @@ This project was a **self-initiated learning experiment** to better understand A
 
 ## 🖼 Screenshots
 
-![Screenshot](assets/SS.png)
+![Screenshot](https://raw.githubusercontent.com/RafaelSKD/LLM-SEO-Content-Gen/main/assets/SS.png)
+
+
 
 ---
 
