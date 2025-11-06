@@ -49,7 +49,7 @@ This project was a **self-initiated learning experiment** to better understand A
 
 ## 🖼 Screenshots
 
-*Add screenshots of the app here for visual context.*
+![Logo](assets/SS.png)
 
 ---
 
