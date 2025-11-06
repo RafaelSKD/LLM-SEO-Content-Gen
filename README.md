@@ -45,12 +45,6 @@ This project was a **self-initiated learning experiment** to better understand A
 - **Requests** for API calls
 - **dotenv** for environment variable management
 
----
-
-## 🖼 Screenshots
-
-![Screenshot](https://raw.githubusercontent.com/RafaelSKD/LLM-SEO-Content-Gen/main/assets/SS.png)
-
 
 
 ---
